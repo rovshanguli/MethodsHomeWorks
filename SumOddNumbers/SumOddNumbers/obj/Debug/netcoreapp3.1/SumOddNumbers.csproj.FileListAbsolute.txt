@@ -1,0 +1,14 @@
+C:\Users\user\Desktop\MethodsHomeWorks\SumOddNumbers\SumOddNumbers\bin\Debug\netcoreapp3.1\SumOddNumbers.exe
+C:\Users\user\Desktop\MethodsHomeWorks\SumOddNumbers\SumOddNumbers\bin\Debug\netcoreapp3.1\SumOddNumbers.deps.json
+C:\Users\user\Desktop\MethodsHomeWorks\SumOddNumbers\SumOddNumbers\bin\Debug\netcoreapp3.1\SumOddNumbers.runtimeconfig.json
+C:\Users\user\Desktop\MethodsHomeWorks\SumOddNumbers\SumOddNumbers\bin\Debug\netcoreapp3.1\SumOddNumbers.runtimeconfig.dev.json
+C:\Users\user\Desktop\MethodsHomeWorks\SumOddNumbers\SumOddNumbers\bin\Debug\netcoreapp3.1\SumOddNumbers.dll
+C:\Users\user\Desktop\MethodsHomeWorks\SumOddNumbers\SumOddNumbers\bin\Debug\netcoreapp3.1\SumOddNumbers.pdb
+C:\Users\user\Desktop\MethodsHomeWorks\SumOddNumbers\SumOddNumbers\obj\Debug\netcoreapp3.1\SumOddNumbers.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\MethodsHomeWorks\SumOddNumbers\SumOddNumbers\obj\Debug\netcoreapp3.1\SumOddNumbers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\MethodsHomeWorks\SumOddNumbers\SumOddNumbers\obj\Debug\netcoreapp3.1\SumOddNumbers.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\MethodsHomeWorks\SumOddNumbers\SumOddNumbers\obj\Debug\netcoreapp3.1\SumOddNumbers.AssemblyInfo.cs
+C:\Users\user\Desktop\MethodsHomeWorks\SumOddNumbers\SumOddNumbers\obj\Debug\netcoreapp3.1\SumOddNumbers.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\MethodsHomeWorks\SumOddNumbers\SumOddNumbers\obj\Debug\netcoreapp3.1\SumOddNumbers.dll
+C:\Users\user\Desktop\MethodsHomeWorks\SumOddNumbers\SumOddNumbers\obj\Debug\netcoreapp3.1\SumOddNumbers.pdb
+C:\Users\user\Desktop\MethodsHomeWorks\SumOddNumbers\SumOddNumbers\obj\Debug\netcoreapp3.1\SumOddNumbers.genruntimeconfig.cache
