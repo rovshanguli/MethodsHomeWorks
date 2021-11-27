@@ -1,0 +1,13 @@
+C:\Users\user\Desktop\C#_Works\OddNumbers\OddNumbers\obj\Debug\netcoreapp3.1\OddNumbers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\C#_Works\OddNumbers\OddNumbers\obj\Debug\netcoreapp3.1\OddNumbers.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\C#_Works\OddNumbers\OddNumbers\obj\Debug\netcoreapp3.1\OddNumbers.AssemblyInfo.cs
+C:\Users\user\Desktop\C#_Works\OddNumbers\OddNumbers\obj\Debug\netcoreapp3.1\OddNumbers.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\C#_Works\OddNumbers\OddNumbers\bin\Debug\netcoreapp3.1\OddNumbers.exe
+C:\Users\user\Desktop\C#_Works\OddNumbers\OddNumbers\bin\Debug\netcoreapp3.1\OddNumbers.deps.json
+C:\Users\user\Desktop\C#_Works\OddNumbers\OddNumbers\bin\Debug\netcoreapp3.1\OddNumbers.runtimeconfig.json
+C:\Users\user\Desktop\C#_Works\OddNumbers\OddNumbers\bin\Debug\netcoreapp3.1\OddNumbers.runtimeconfig.dev.json
+C:\Users\user\Desktop\C#_Works\OddNumbers\OddNumbers\bin\Debug\netcoreapp3.1\OddNumbers.dll
+C:\Users\user\Desktop\C#_Works\OddNumbers\OddNumbers\bin\Debug\netcoreapp3.1\OddNumbers.pdb
+C:\Users\user\Desktop\C#_Works\OddNumbers\OddNumbers\obj\Debug\netcoreapp3.1\OddNumbers.dll
+C:\Users\user\Desktop\C#_Works\OddNumbers\OddNumbers\obj\Debug\netcoreapp3.1\OddNumbers.pdb
+C:\Users\user\Desktop\C#_Works\OddNumbers\OddNumbers\obj\Debug\netcoreapp3.1\OddNumbers.genruntimeconfig.cache
