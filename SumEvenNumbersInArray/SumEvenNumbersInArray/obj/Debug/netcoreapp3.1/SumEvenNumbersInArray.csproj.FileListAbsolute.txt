@@ -1,0 +1,14 @@
+C:\Users\user\Desktop\MethodsHomeWorks\SumEvenNumbersInArray\SumEvenNumbersInArray\bin\Debug\netcoreapp3.1\SumEvenNumbersInArray.exe
+C:\Users\user\Desktop\MethodsHomeWorks\SumEvenNumbersInArray\SumEvenNumbersInArray\bin\Debug\netcoreapp3.1\SumEvenNumbersInArray.deps.json
+C:\Users\user\Desktop\MethodsHomeWorks\SumEvenNumbersInArray\SumEvenNumbersInArray\bin\Debug\netcoreapp3.1\SumEvenNumbersInArray.runtimeconfig.json
+C:\Users\user\Desktop\MethodsHomeWorks\SumEvenNumbersInArray\SumEvenNumbersInArray\bin\Debug\netcoreapp3.1\SumEvenNumbersInArray.runtimeconfig.dev.json
+C:\Users\user\Desktop\MethodsHomeWorks\SumEvenNumbersInArray\SumEvenNumbersInArray\bin\Debug\netcoreapp3.1\SumEvenNumbersInArray.dll
+C:\Users\user\Desktop\MethodsHomeWorks\SumEvenNumbersInArray\SumEvenNumbersInArray\bin\Debug\netcoreapp3.1\SumEvenNumbersInArray.pdb
+C:\Users\user\Desktop\MethodsHomeWorks\SumEvenNumbersInArray\SumEvenNumbersInArray\obj\Debug\netcoreapp3.1\SumEvenNumbersInArray.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\MethodsHomeWorks\SumEvenNumbersInArray\SumEvenNumbersInArray\obj\Debug\netcoreapp3.1\SumEvenNumbersInArray.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\MethodsHomeWorks\SumEvenNumbersInArray\SumEvenNumbersInArray\obj\Debug\netcoreapp3.1\SumEvenNumbersInArray.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\MethodsHomeWorks\SumEvenNumbersInArray\SumEvenNumbersInArray\obj\Debug\netcoreapp3.1\SumEvenNumbersInArray.AssemblyInfo.cs
+C:\Users\user\Desktop\MethodsHomeWorks\SumEvenNumbersInArray\SumEvenNumbersInArray\obj\Debug\netcoreapp3.1\SumEvenNumbersInArray.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\MethodsHomeWorks\SumEvenNumbersInArray\SumEvenNumbersInArray\obj\Debug\netcoreapp3.1\SumEvenNumbersInArray.dll
+C:\Users\user\Desktop\MethodsHomeWorks\SumEvenNumbersInArray\SumEvenNumbersInArray\obj\Debug\netcoreapp3.1\SumEvenNumbersInArray.pdb
+C:\Users\user\Desktop\MethodsHomeWorks\SumEvenNumbersInArray\SumEvenNumbersInArray\obj\Debug\netcoreapp3.1\SumEvenNumbersInArray.genruntimeconfig.cache
